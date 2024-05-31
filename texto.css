@@ -1,0 +1,22 @@
+button{
+    width: 100px;
+    height: 40px;
+    background-color: pink;
+    color: rgb(0, 0, 0);
+    border-right-color:white;
+    border-bottom-color: white;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    transition: 0.7s;
+}
+button:hover{
+  
+    transform: scale(1.1);
+
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-image: url(aaa.jpg);
+    color: white;
+}
